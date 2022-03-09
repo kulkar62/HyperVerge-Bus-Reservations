@@ -3,6 +3,7 @@
 
 To run and build server, install locally with npm:
 ```
+$ cd ./HyperVerge-Bus-Reservations-main
 $ npm install
 $ npm run start
 ```
