@@ -1,5 +1,5 @@
 # HyperVerge-Bus-Reservations
-Bus Reservations Assignment
+## Instructions to Build and Run
 
 To run and build server, install locally with npm:
 ```
