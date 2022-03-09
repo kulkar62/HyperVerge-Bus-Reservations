@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1646788685027" clover="3.2.0">
+  <project timestamp="1646788685027" name="All files">
+    <metrics statements="99" coveredstatements="94" conditionals="18" coveredconditionals="12" methods="8" coveredmethods="8" elements="125" coveredelements="114" complexity="0" loc="99" ncloc="99" packages="3" files="8" classes="8"/>
+    <package name="Hyperverge">
+      <metrics statements="30" coveredstatements="30" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="index.js" path="/Users/anshul/Desktop/Hyperverge/index.js">
+        <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+      <file name="validation.js" path="/Users/anshul/Desktop/Hyperverge/validation.js">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Hyperverge.model">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="User.js" path="/Users/anshul/Desktop/Hyperverge/model/User.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Hyperverge.routes">
+      <metrics statements="66" coveredstatements="61" conditionals="18" coveredconditionals="12" methods="5" coveredmethods="5"/>
+      <file name="login.js" path="/Users/anshul/Desktop/Hyperverge/routes/login.js">
+        <metrics statements="15" coveredstatements="15" conditionals="6" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+      <file name="register.js" path="/Users/anshul/Desktop/Hyperverge/routes/register.js">
+        <metrics statements="18" coveredstatements="16" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+      </file>
+      <file name="reserve.js" path="/Users/anshul/Desktop/Hyperverge/routes/reserve.js">
+        <metrics statements="14" coveredstatements="13" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+      <file name="reset.js" path="/Users/anshul/Desktop/Hyperverge/routes/reset.js">
+        <metrics statements="10" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+      <file name="verifyToken.js" path="/Users/anshul/Desktop/Hyperverge/routes/verifyToken.js">
+        <metrics statements="9" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
